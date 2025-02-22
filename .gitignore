@@ -1,0 +1,8 @@
+# Video output
+*.mp4
+hls_output
+
+# macOS
+.DS_Store
+
+/govod/build
