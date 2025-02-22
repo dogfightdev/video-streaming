@@ -1,6 +1,6 @@
 # Video Streaming
 
-Tutorial at [blog.dogfight.dev](https://blog.dogfight.dev).
+Tutorial coming soon at [blog.dogfight.dev](https://blog.dogfight.dev).
 
 ## License
 
